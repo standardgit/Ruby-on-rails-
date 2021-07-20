@@ -1,27 +1,24 @@
-# INTRODUCTION TO RUBY
-- Setting up my ruby enviroment.
-Ruby is a object oriented language 
-- learnimg the basics of the ruby lang
--conversion of strings to numbers using (.to_i)
-``` print "Enter a number: "
-    number = gets.to_i
-    puts number + 10
-``` 
-using loops
-- using while loop
-``` num = 1
-    while num < 10
-        puts num
-        num += 1
-    end 
-```
+# README
 
-- using each loops
-``` names = ["John", "Tim", "Mary"]
-    names.each do |names|
-        puts names
-    end
-```
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-- how to create a class
-- how to use an attr accessor
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
