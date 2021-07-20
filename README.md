@@ -22,6 +22,6 @@ using loops
     names.each do |names|
         puts names
     end
-    
+
 - how to create a ##class
 - how to use an attr accessor
