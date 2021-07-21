@@ -25,3 +25,8 @@ using loops
 
 - how to create a class
 - how to use an attr accessor
+
+
+- Running database migration
+- installing bootstrap
+- implementing bootstrap
